@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://juaky.github.io/desenvolupament-servidor/hugo-boilerplate/</loc>
+    <lastmod>2015-09-14T15:08:27+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://juaky.github.io/desenvolupament-servidor/hyde-y/</loc>
+    <lastmod>2015-09-13T15:08:27+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://juaky.github.io/desenvolupament-servidor/hugo/</loc>
+    <lastmod>2015-08-26T15:08:27+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://juaky.github.io/desenvolupament-servidor/2015/08/26/third/</loc>
+    <lastmod>2015-08-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://juaky.github.io/desenvolupament-servidor/2015/08/25/second/</loc>
+    <lastmod>2015-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://juaky.github.io/desenvolupament-servidor/about/</loc>
+    <lastmod>2015-08-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://juaky.github.io/desenvolupament-servidor/2015/08/24/first/</loc>
+    <lastmod>2015-08-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://juaky.github.io/desenvolupament-servidor/2014/09/02/another-hugo-post/</loc>
+    <lastmod>2014-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://juaky.github.io/desenvolupament-servidor/2014/09/01/hello-hugo/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://juaky.github.io/desenvolupament-servidor/license/</loc>
+  </url>
+  
+  <url>
+    <loc>https://juaky.github.io/desenvolupament-servidor/tags/blog/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://juaky.github.io/desenvolupament-servidor/tags/boilerplate/</loc>
+    <lastmod>2015-09-14T15:08:27+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://juaky.github.io/desenvolupament-servidor/code/</loc>
+    <lastmod>2015-09-14T15:08:27+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://juaky.github.io/desenvolupament-servidor/tags/example/</loc>
+    <lastmod>2014-09-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://juaky.github.io/desenvolupament-servidor/tags/generator/</loc>
+    <lastmod>2015-08-26T15:08:27+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://juaky.github.io/desenvolupament-servidor/tags/go/</loc>
+    <lastmod>2015-09-14T15:08:27+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://juaky.github.io/desenvolupament-servidor/tags/hugo/</loc>
+    <lastmod>2015-09-13T15:08:27+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://juaky.github.io/desenvolupament-servidor/tags/one/</loc>
+    <lastmod>2015-08-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://juaky.github.io/desenvolupament-servidor/post/</loc>
+    <lastmod>2015-08-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://juaky.github.io/desenvolupament-servidor/topics/project/</loc>
+    <lastmod>2015-09-14T15:08:27+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://juaky.github.io/desenvolupament-servidor/tags/site/</loc>
+    <lastmod>2015-09-14T15:08:27+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://juaky.github.io/desenvolupament-servidor/tags/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://juaky.github.io/desenvolupament-servidor/tags/three/</loc>
+    <lastmod>2015-08-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://juaky.github.io/desenvolupament-servidor/tags/toml/</loc>
+    <lastmod>2014-09-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://juaky.github.io/desenvolupament-servidor/topics/topic-1/</loc>
+    <lastmod>2015-08-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://juaky.github.io/desenvolupament-servidor/topics/topic-2/</loc>
+    <lastmod>2015-08-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://juaky.github.io/desenvolupament-servidor/topics/</loc>
+    <lastmod>2015-09-14T15:08:27+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://juaky.github.io/desenvolupament-servidor/tags/two/</loc>
+    <lastmod>2015-08-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://juaky.github.io/desenvolupament-servidor/</loc>
+    <lastmod>2015-09-14T15:08:27+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
